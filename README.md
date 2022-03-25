@@ -22,12 +22,3 @@
 - 12 ms  Rendering
 - 1 ms  Painting
 
-### text-with-image
-
-*Control*: 
-- 184 ms  Rendering
-- 2 ms  Painting
-
-*With content-visibility-auto*
-- 12 ms  Rendering
-- 1 ms  Painting
